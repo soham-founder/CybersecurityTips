@@ -54,6 +54,6 @@ Basic HTML & CSS documentation
 
 ✨ Credits
 
-Developed by: [Your Name]
+Developed by: Soham Dhande
 Project Title: Cybersecurity Tips
-GitHub Repo: [Your Repository Link]
+GitHub Repo: https://github.com/soham-founder/CybersecurityTips
